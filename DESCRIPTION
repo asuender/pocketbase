@@ -1,0 +1,10 @@
+Package: pocketbase
+Title: R client library for the "pocketbase" backend.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Andreas", "Sünder", , "andreas.suender@icloud.com", role = c("aut", "cre"))
+Description: R client library for the "pocketbase" backend.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
